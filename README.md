@@ -24,7 +24,15 @@ Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 * [v1](https://github.com/Mohamed-Elhawary/epco-designs/tree/v1)  
 
-   - Not Responsive Template
+   - Not Responsive Template.  
+
+* [v1.1](https://github.com/Mohamed-Elhawary/epco-designs/tree/v1.1)  
+
+   - Use Media Query for Responsive.  
+
+![epco-designs-your-perfect-design-min](https://user-images.githubusercontent.com/69651552/95122570-fee30100-0750-11eb-80e3-33c58643d5bd.gif)
+
+
 
 ## Built With
 
