@@ -14,7 +14,7 @@ One HTML5 Page Template for Apps Design Company.
 
 ## Getting Started
 
-You can try the Template from [here](https://mohamed-elhawary.github.io/epco-designs/)
+You can try the Template from [here](https://epcodesigns.netlify.app/)
 
 ## Prerequisites
 
