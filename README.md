@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/df8fbc23-3d5d-466f-83f4-e3c930819b39/deploy-status)](https://app.netlify.com/sites/epcodesigns/deploys) 
 
-One HTML5 landing page template for apps design company.  
+One HTML5 landing page template for apps design company.    
 (Responsive)  
 
 ![Screenshot](mockup.png)  
@@ -14,7 +14,7 @@ One HTML5 landing page template for apps design company.
 
 ## Getting Started
 
-You can try the Template from [here](https://mohamed-elhawary.github.io/epco-designs/)
+You can try the Template from [here](https://epcodesigns.netlify.app/)
 
 ## Prerequisites
 
