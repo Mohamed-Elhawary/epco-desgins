@@ -201,7 +201,7 @@ section {
 
 /*start header*/
 .header {
-    background: url("/images/header.jpg");
+    background: url("../images/header.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -428,7 +428,7 @@ section {
 
 /*start subscribe*/
 .subscribe {
-    background-image: url("/images/subscribe.jpg");
+    background-image: url("../images/subscribe.jpg");
     background-size: cover;
     height: 300px;
     position: relative;
@@ -680,7 +680,7 @@ section {
 /*start testimonials*/
 .testimonials {
     position: relative;
-    background: url("/images/testimonials/ovelay.jpg");
+    background: url("../images/testimonials/ovelay.jpg");
 }
 
 .testimonials .opinions .opinion:not(.active) {
@@ -975,7 +975,7 @@ section {
 section.hire-us {
     text-align: center;
     position: relative;
-    background: url('/images/hire-us.png');
+    background: url('../images/hire-us.png');
     background-size: cover;
 }
 

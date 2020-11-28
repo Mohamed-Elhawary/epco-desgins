@@ -115,5 +115,4 @@ $(function() {
         cursorborder: '1px solid #f7600e'
     
     });
-
 });
