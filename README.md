@@ -4,20 +4,13 @@
 
 Epco Designs is a landing page website for apps design company.
 
+You can view the App from [here](https://epcodesigns.netlify.app/)
+
 ![Screenshot](mockup.png)  
 
 ## Demo
  
-![epco-designs-your-perfect-design-min](https://user-images.githubusercontent.com/69651552/95048822-d4f5f400-06e8-11eb-8ac6-38324b8dd76e.gif)
-
-
-## Getting Started
-
-You can try the Template from [here](https://epcodesigns.netlify.app/)
-
-## Prerequisites
-
-Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.  
+![epco-designs-your-perfect-design-min](https://user-images.githubusercontent.com/69651552/95048822-d4f5f400-06e8-11eb-8ac6-38324b8dd76e.gif)  
 
 ## Versions  
 
@@ -56,13 +49,15 @@ Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 ## Author
 
-* Mohamed Elhawary  
+* [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)
 
-## Contact Me  
+## Contact me through my social accounts
 
-* Email: mohamed.k.elhawary@gmail.com  
-
-* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/) 
+* Email: mohamed.k.elhawary@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Github](https://github.com/Mohamed-Elhawary)  
+* [Behance](https://www.behance.net/mohamed-elhawary14)
+* [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
 ## Deploy with Me
 
