@@ -59,10 +59,6 @@ You can view the App from [here](https://epcodesigns.netlify.app/)
 * [Behance](https://www.behance.net/mohamed-elhawary14)
 * [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
-## Deploy with Me
-
-Feel Free to Deploy it with me, send Issues or a Pull Request and i'll deal with you, just test it First.
-
 ## License
 
 Licensed under the [MIT License](LICENSE)
