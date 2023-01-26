@@ -24,8 +24,6 @@ You can view the website from [here](https://epcodesigns.netlify.app/)
 
 ![epco-designs-your-perfect-design-min](https://user-images.githubusercontent.com/69651552/95122570-fee30100-0750-11eb-80e3-33c58643d5bd.gif)
 
-
-
 ## Built With
 
 * HTML5
