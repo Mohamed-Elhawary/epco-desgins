@@ -4,7 +4,7 @@
 
 Epco Designs is a landing page website for apps design company.
 
-You can view the App from [here](https://epcodesigns.netlify.app/)
+You can view the website from [here](https://epcodesigns.netlify.app/)
 
 ![Screenshot](mockup.png)  
 
