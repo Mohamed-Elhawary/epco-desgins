@@ -43,10 +43,6 @@ You can view the website from [here](https://epcodesigns.netlify.app/)
 
 * [nicescroll.js](https://nicescroll.areaaperta.com/)  
 
-## Google Fonts  
-
-* [Open Sans](https://fonts.google.com/specimen/Open+Sans) 
-
 ## Author
 
 * [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)
