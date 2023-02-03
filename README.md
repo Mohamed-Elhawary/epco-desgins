@@ -39,7 +39,7 @@ You can view the website from [here](https://epcodesigns.netlify.app/)
   
 ## Plugins 
 
-* [nicescroll.js](https://nicescroll.areaaperta.com/)  
+* [Nice Scroll](https://nicescroll.areaaperta.com/)  
 
 ## Author
 
